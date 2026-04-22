@@ -1,0 +1,15 @@
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\bin\Debug\net10.0\lab-8-maze-Doubledevelo-1.exe
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\bin\Debug\net10.0\lab-8-maze-Doubledevelo-1.deps.json
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\bin\Debug\net10.0\lab-8-maze-Doubledevelo-1.runtimeconfig.json
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\bin\Debug\net10.0\lab-8-maze-Doubledevelo-1.dll
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\bin\Debug\net10.0\lab-8-maze-Doubledevelo-1.pdb
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.AssemblyInfoInputs.cache
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.AssemblyInfo.cs
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.csproj.CoreCompileInputs.cache
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.sourcelink.json
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.dll
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\refint\lab-8-maze-Doubledevelo-1.dll
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.pdb
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\lab-8-maze-Doubledevelo-1.genruntimeconfig.cache
+C:\Users\massi\Downloads\Maze\lab-8-maze-Doubledevelo-1\obj\Debug\net10.0\ref\lab-8-maze-Doubledevelo-1.dll
